@@ -1,0 +1,27 @@
+kind: Deployment
+apiVersion: apps/v1
+metadata:
+  name: notes-deploy
+  namespace: notes
+  labels:
+    app: node
+spec:
+  replicas: 2
+  progressDeadlineSeconds: 600
+  revisionHistoryLimit: 2
+  strategy:
+    type: Recreate
+  selector:
+    matchLabels:
+      app: node
+  template:
+    metadata:
+      labels:
+        app: node
+    spec:
+      containers:
+        - name: node
+          image: asskit/notes:d770fdc0da94fbbe520b841758c0870b89eabf93
+          ports:
+            - name: web
+              containerPort: 8080
