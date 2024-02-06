@@ -10,43 +10,37 @@
     <link>https://notes.nzdev.org/2024-python-refresh</link>
     <guid>https://notes.nzdev.org/2024-python-refresh</guid>
     <description>Outline For The “short Script” Mine is Not Short at all but it cover the rest of the requirements of the other challenges. For those who Know its the first question in the python refresher for#7dit .</description>
-    <pubDate>Sat, 03 Feb 2024 03:37:24 GMT</pubDate>
+    <pubDate>Mon, 05 Feb 2024 03:56:35 GMT</pubDate>
   </item><item>
     <title>Module</title>
     <link>https://notes.nzdev.org/pi-Api/Module</link>
     <guid>https://notes.nzdev.org/pi-Api/Module</guid>
     <description>Add This Module Using Git Create [submodule &quot;piApi&quot;] path = piApi url = https://github.com/Notliam99/piApi.git branch = builds Run the following commands git submodules init git submodules update --remote # updates the submoule with the .</description>
-    <pubDate>Sun, 21 Jan 2024 22:07:09 GMT</pubDate>
-  </item><item>
-    <title>Demo</title>
-    <link>https://notes.nzdev.org/pi-Api/Demo</link>
-    <guid>https://notes.nzdev.org/pi-Api/Demo</guid>
-    <description>Demo Simple demo script is included in the Github repository here: main.py main.pyfrom piApi import Api api = Api() @api.get(&#039;/&#039;) def hello_world(request): &quot;&quot;&quot; Index route decorated by @api.</description>
-    <pubDate>Wed, 27 Dec 2023 23:11:51 GMT</pubDate>
+    <pubDate>Thu, 01 Feb 2024 05:44:56 GMT</pubDate>
   </item><item>
     <title>Pi-Api</title>
     <link>https://notes.nzdev.org/pi-Api/Pi-Api</link>
     <guid>https://notes.nzdev.org/pi-Api/Pi-Api</guid>
     <description>Pi-API is a simple module made for micro Python. to make simple web enabled projects use it to integrate with your own code. Demo More Documentation To Be Done.</description>
-    <pubDate>Wed, 27 Dec 2023 22:00:02 GMT</pubDate>
+    <pubDate>Thu, 01 Feb 2024 05:44:55 GMT</pubDate>
+  </item><item>
+    <title>Demo</title>
+    <link>https://notes.nzdev.org/pi-Api/Demo</link>
+    <guid>https://notes.nzdev.org/pi-Api/Demo</guid>
+    <description>Demo Simple demo script is included in the Github repository here: main.py main.pyfrom piApi import Api api = Api() @api.get(&#039;/&#039;) def hello_world(request): &quot;&quot;&quot; Index route decorated by @api.</description>
+    <pubDate>Thu, 01 Feb 2024 05:44:55 GMT</pubDate>
   </item><item>
     <title>index</title>
     <link>https://notes.nzdev.org/</link>
     <guid>https://notes.nzdev.org/</guid>
     <description>WOW I Am Sooooooo Good At School Check Out My 10/10 Cheat Codes !!! i like google.</description>
-    <pubDate>Wed, 25 Oct 2023 01:34:43 GMT</pubDate>
+    <pubDate>Sun, 22 Oct 2023 23:54:10 GMT</pubDate>
   </item><item>
     <title>6sce mock</title>
     <link>https://notes.nzdev.org/6sce-mock</link>
     <guid>https://notes.nzdev.org/6sce-mock</guid>
     <description>Q1 a) correct a=ΔtΔv​ a=30s​60ms​ a=2ms−2 b) correct Score: E1 c) i) correct Score: A2 ii) correct Fw​​=mg=770kg×10kg−1=7700N​​ Score: A3 iii) wrong question 2 c) the car was lifted 150cm over a periord of 30 seconds.</description>
-    <pubDate>Wed, 25 Oct 2023 01:34:43 GMT</pubDate>
-  </item><item>
-    <title>binary fission 2023-07-26 20.02.05.excalidraw</title>
-    <link>https://notes.nzdev.org/Excalidraw/binary-fission-2023-07-26-20.02.05.excalidraw</link>
-    <guid>https://notes.nzdev.org/Excalidraw/binary-fission-2023-07-26-20.02.05.excalidraw</guid>
-    <description>⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠ Text Elements cell wall cell membrane DNA replica Nucleoid ( 1. ) ( 2. ) ( 3.</description>
-    <pubDate>Wed, 25 Oct 2023 01:34:43 GMT</pubDate>
+    <pubDate>Tue, 17 Oct 2023 08:09:29 GMT</pubDate>
   </item><item>
     <title>Html tags</title>
     <link>https://notes.nzdev.org/Html-tags</link>
@@ -57,13 +51,19 @@
     <title>cellular reproduction</title>
     <link>https://notes.nzdev.org/cellular-reproduction</link>
     <guid>https://notes.nzdev.org/cellular-reproduction</guid>
-    <description>binary fission binary fision; binary meaning x^2 as when it splits the posible population incenses by a factor of x^2 Transclude of binary-fission-2023-07-26-20.</description>
+    <description>binary fission binary fision; binary meaning x^2 as when it splits the posible population incenses by a factor of x^2 Explaintion In this stage of the life cycle is where the Dna or more specifically the nuleoid is replicated for use in the replica cell.</description>
     <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
   </item><item>
     <title>pe journal format</title>
     <link>https://notes.nzdev.org/pe-journal-format</link>
     <guid>https://notes.nzdev.org/pe-journal-format</guid>
     <description>Structure WHAT: &lt; what factors applied &gt; HOW: &lt; how did this affect you &gt; WHY: &lt; Why you think this had a impact &gt; NEXT TIME: &lt; What you would change for next time &gt; When has been used I used this two times during my 6ped course on the 1.</description>
+    <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>semantic html</title>
+    <link>https://notes.nzdev.org/semantic-html</link>
+    <guid>https://notes.nzdev.org/semantic-html</guid>
+    <description>Semantic is a style to your html along with this your css will have to be formated in a way that makes in easy to work with this. HTML The html uses some new Html tags that i havent seen before &lt;body&gt; &lt;header&gt; &lt;section&gt; &lt;head&gt;WEBSITE&lt;/head&gt; &lt;/section&gt; &lt;section&gt; &lt;nav&gt; .</description>
     <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
   </item>
     </channel>
