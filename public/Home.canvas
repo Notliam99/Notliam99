@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"fd2d96dcbc4d8359","type":"text","text":"memorise","x":-1080,"y":-1040,"width":250,"height":60},
-		{"id":"8c86f8f4facb7ace","type":"file","file":"6enf sniper quotes from the story.md","x":-1020,"y":-820,"width":880,"height":600}
-	],
-	"edges":[
-		{"id":"517729157b90b555","fromNode":"fd2d96dcbc4d8359","fromSide":"bottom","toNode":"8c86f8f4facb7ace","toSide":"top","color":"1"}
-	]
-}
