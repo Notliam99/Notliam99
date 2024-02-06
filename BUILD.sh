@@ -1,9 +1,9 @@
 #! /usr/bin/bash
 git pull
 if [ "${1}" == "" ]; then
-  ./quartz/bootstrap-cli.mjs build -d ../../Main
+    ./quartz/bootstrap-cli.mjs build -d ../../main
 else
-  ./quartz/bootstrap-cli.mjs build -d "${1}"
+    ./quartz/bootstrap-cli.mjs build -d "${1}"
 fi
 git add .
 git commit -m "auto add notes date: [$(date)]"

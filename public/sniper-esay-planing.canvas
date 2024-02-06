@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"8866685b8c00612c","x":-540,"y":-380,"width":250,"height":60,"color":"4","type":"text","text":"3 turning points "},
+		{"id":"12f02d583b824096","x":-540,"y":-280,"width":250,"height":100,"type":"text","text":"Then the sniper turned over the dead body and looked into his brother's face."},
+		{"id":"e7d503d26562f04d","x":-220,"y":-280,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"854ada3cd889698d","fromNode":"8866685b8c00612c","fromSide":"right","toNode":"12f02d583b824096","toSide":"right"}
+	]
+}
