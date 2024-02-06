@@ -7,8 +7,10 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "G-V9YM84R69G"
     },
+    locale: "en-US",
     baseUrl: "notes.nzdev.org",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
