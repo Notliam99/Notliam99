@@ -16,6 +16,7 @@ import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.lay
 import { TagContent } from "../../components"
 import { write } from "./helpers"
 import { i18n } from "../../i18n"
+import DepGraph from "../../depgraph"
 
 export const TagPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOpts) => {
   const opts: FullPageLayout = {
@@ -33,6 +34,27 @@ export const TagPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOpts) 
     name: "TagPage",
     getQuartzComponents() {
       return [Head, Header, Body, ...header, ...beforeBody, pageBody, ...left, ...right, Footer]
+    },
+    async getDependencyGraph(ctx, content, _resources) {
+      const graph = new DepGraph<FilePath>()
+
+      for (const [_tree, file] of content) {
+        const sourcePath = file.data.filePath!
+        const tags = (file.data.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes)
+        // if the file has at least one tag, it is used in the tag index page
+        if (tags.length > 0) {
+          tags.push("index")
+        }
+
+        for (const tag of tags) {
+          graph.addEdge(
+            sourcePath,
+            joinSegments(ctx.argv.output, "tags", tag + ".html") as FilePath,
+          )
+        }
+      }
+
+      return graph
     },
     async emit(ctx, content, resources): Promise<FilePath[]> {
       const fps: FilePath[] = []
