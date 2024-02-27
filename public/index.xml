@@ -10,13 +10,13 @@
     <link>https://notes.nzdev.org/7CHE/Practice-report</link>
     <guid>https://notes.nzdev.org/7CHE/Practice-report</guid>
     <description>Testing Cations [Cu2+,Fe2+,Fe3+,Ag+,Pb2+,Mg2+,Ba2+,Al3+,Zn2+,Na+]cd TestObservationsions eliminatedNames and/or formula of preciptates that form.equations for formation of precipitatesAdd NaOHOrange PreciptateCu2+,Fe2+.</description>
-    <pubDate>Mon, 26 Feb 2024 00:31:54 GMT</pubDate>
+    <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Module</title>
-    <link>https://notes.nzdev.org/pi-Api/Module</link>
-    <guid>https://notes.nzdev.org/pi-Api/Module</guid>
-    <description>Add This Module Using Git Create [submodule &quot;piApi&quot;] path = piApi url = https://github.com/Notliam99/piApi.git branch = builds Run the following commands git submodules init git submodules update --remote # updates the submoule with the .</description>
-    <pubDate>Wed, 21 Feb 2024 08:08:59 GMT</pubDate>
+    <title>Add To Your Project</title>
+    <link>https://notes.nzdev.org/pi-Api/Add-To-Your-Project</link>
+    <guid>https://notes.nzdev.org/pi-Api/Add-To-Your-Project</guid>
+    <description>Add This Module Run the following CLI commands git submodules init git submodules update --remote # updates the submoule with the Create a .gitmodules file in the root [submodule &quot;piApi&quot;] path = piApi url = https://github.</description>
+    <pubDate>Wed, 21 Feb 2024 07:02:08 GMT</pubDate>
   </item><item>
     <title>Task A</title>
     <link>https://notes.nzdev.org/L2-Mechanics/Task-A</link>
@@ -28,43 +28,43 @@
     <link>https://notes.nzdev.org/kuberneties</link>
     <guid>https://notes.nzdev.org/kuberneties</guid>
     <description>How I Use Kuberneties I use kuberneties mostly in my CD pipeline I also have deployed other servieces like bitwarden a password manager too. Continuous Deployment (CD) The main service that makes continious deployment work for me is ArgoCd.</description>
-    <pubDate>Tue, 06 Feb 2024 20:08:49 GMT</pubDate>
+    <pubDate>Tue, 06 Feb 2024 05:45:16 GMT</pubDate>
   </item><item>
     <title>Ncea 3.7 Assesment Project Proposals</title>
     <link>https://notes.nzdev.org/Ncea-3.7-Assesment-Project-Proposals</link>
     <guid>https://notes.nzdev.org/Ncea-3.7-Assesment-Project-Proposals</guid>
     <description>API I could make a Web Api using Python and Module i have had some time with FastApi. I have spent a fair amount of time with kuberneties Witch i can use to deploy the app to a public domain.</description>
-    <pubDate>Mon, 05 Feb 2024 01:46:09 GMT</pubDate>
+    <pubDate>Mon, 05 Feb 2024 03:56:36 GMT</pubDate>
   </item><item>
     <title>2024 python refresh</title>
     <link>https://notes.nzdev.org/2024-python-refresh</link>
     <guid>https://notes.nzdev.org/2024-python-refresh</guid>
     <description>Outline For The “short Script” Mine is Not Short at all but it cover the rest of the requirements of the other challenges. For those who Know its the first question in the python refresher for#7dit .</description>
-    <pubDate>Sat, 03 Feb 2024 03:37:24 GMT</pubDate>
+    <pubDate>Mon, 05 Feb 2024 03:56:35 GMT</pubDate>
   </item><item>
-    <title>Add To Your Project</title>
-    <link>https://notes.nzdev.org/pi-Api/Add-To-Your-Project</link>
-    <guid>https://notes.nzdev.org/pi-Api/Add-To-Your-Project</guid>
-    <description>Add This Module Run the following CLI commands git submodules init git submodules update --remote # updates the submoule with the Create a .gitmodules file in the root [submodule &quot;piApi&quot;] path = piApi url = https://github.</description>
-    <pubDate>Sun, 21 Jan 2024 22:07:09 GMT</pubDate>
-  </item><item>
-    <title>Demo</title>
-    <link>https://notes.nzdev.org/pi-Api/Demo</link>
-    <guid>https://notes.nzdev.org/pi-Api/Demo</guid>
-    <description>Demo Simple demo script is included in the Github repository here: main.py main.pyfrom piApi import Api api = Api() @api.get(&#039;/&#039;) def hello_world(request): &quot;&quot;&quot; Index route decorated by @api.</description>
-    <pubDate>Wed, 27 Dec 2023 23:11:51 GMT</pubDate>
+    <title>Module</title>
+    <link>https://notes.nzdev.org/pi-Api/Module</link>
+    <guid>https://notes.nzdev.org/pi-Api/Module</guid>
+    <description>Add This Module Using Git Create [submodule &quot;piApi&quot;] path = piApi url = https://github.com/Notliam99/piApi.git branch = builds Run the following commands git submodules init git submodules update --remote # updates the submoule with the .</description>
+    <pubDate>Thu, 01 Feb 2024 05:44:56 GMT</pubDate>
   </item><item>
     <title>Pi-Api</title>
     <link>https://notes.nzdev.org/pi-Api/Pi-Api</link>
     <guid>https://notes.nzdev.org/pi-Api/Pi-Api</guid>
     <description>Pi-API is a simple module made for micro Python. to make simple web enabled projects use it to integrate with your own code. Demo More Documentation To Be Done.</description>
-    <pubDate>Wed, 27 Dec 2023 22:00:02 GMT</pubDate>
+    <pubDate>Thu, 01 Feb 2024 05:44:55 GMT</pubDate>
+  </item><item>
+    <title>Demo</title>
+    <link>https://notes.nzdev.org/pi-Api/Demo</link>
+    <guid>https://notes.nzdev.org/pi-Api/Demo</guid>
+    <description>Demo Simple demo script is included in the Github repository here: main.py main.pyfrom piApi import Api api = Api() @api.get(&#039;/&#039;) def hello_world(request): &quot;&quot;&quot; Index route decorated by @api.</description>
+    <pubDate>Thu, 01 Feb 2024 05:44:55 GMT</pubDate>
   </item><item>
     <title>index</title>
     <link>https://notes.nzdev.org/</link>
     <guid>https://notes.nzdev.org/</guid>
     <description>WOW I Am Sooooooo Good At School Check Out My 10/10 Cheat Codes !!! I like google.</description>
-    <pubDate>Wed, 25 Oct 2023 01:34:43 GMT</pubDate>
+    <pubDate>Sun, 22 Oct 2023 23:54:10 GMT</pubDate>
   </item>
     </channel>
   </rss>
