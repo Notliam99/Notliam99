@@ -6,10 +6,16 @@
       <description>Last 10 notes on 🪴 Liam&#039;s Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>7Dit</title>
-    <link>https://notes.nzdev.org/7DIT/AS-91896-Coding-Project-2.7/7Dit</link>
-    <guid>https://notes.nzdev.org/7DIT/AS-91896-Coding-Project-2.7/7Dit</guid>
-    <description>Liams Level 2 Python Project Project Description ℹ️ Write a short description of what your program will do, and how it will work Key Specifications ℹ️ Write bullet points outlining the key specifications for your project Daily Log ℹ️ Each time you work on your project, add a dated entry to this section.</description>
+    <title>cool class</title>
+    <link>https://notes.nzdev.org/7DIT/cool-class</link>
+    <guid>https://notes.nzdev.org/7DIT/cool-class</guid>
+    <description>This A Sick Class….</description>
+    <pubDate>Wed, 20 Mar 2024 22:28:07 GMT</pubDate>
+  </item><item>
+    <title>Liams Level 2 Python Project</title>
+    <link>https://notes.nzdev.org/7DIT/AS-91896-Coding-Project-2.7/Liams-Level-2-Python-Project</link>
+    <guid>https://notes.nzdev.org/7DIT/AS-91896-Coding-Project-2.7/Liams-Level-2-Python-Project</guid>
+    <description>Liams Level 2 Python Project Project Description Create a Order system for a small bisness to display daliy earning profit excetra … Key Specifications Add orders remove orders descibe each item acording to predefined menu add custom item support display the end of day resaults ℹ️ Write bullet points outlining the key specifications for your project Daily Log ℹ️ Each time you work on your project, add a dated entry to this section.</description>
     <pubDate>Wed, 20 Mar 2024 21:52:18 GMT</pubDate>
   </item><item>
     <title>Practice Report 2</title>
@@ -59,12 +65,6 @@
     <guid>https://notes.nzdev.org/2024-python-refresh</guid>
     <description>Outline For The “short Script” Mine is Not Short at all but it cover the rest of the requirements of the other challenges. For those who Know its the first question in the python refresher for#7dit .</description>
     <pubDate>Tue, 19 Mar 2024 22:40:33 GMT</pubDate>
-  </item><item>
-    <title>Pi-Api</title>
-    <link>https://notes.nzdev.org/pi-Api/Pi-Api</link>
-    <guid>https://notes.nzdev.org/pi-Api/Pi-Api</guid>
-    <description>Pi-API is a simple module made for micro Python. to make simple web enabled projects use it to integrate with your own code. Demo More Documentation To Be Done.</description>
-    <pubDate>Tue, 19 Mar 2024 22:40:32 GMT</pubDate>
   </item>
     </channel>
   </rss>
