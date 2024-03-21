@@ -73,7 +73,7 @@ export const TagPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOpts) 
           const title =
             tag === "index"
               ? i18n(cfg.locale).pages.tagContent.tagIndex
-              : `${i18n(cfg.locale).pages.tagContent.tag}: #${tag}`
+              : `${i18n(cfg.locale).pages.tagContent.tag}: ${tag}`
           return [
             tag,
             defaultProcessedContent({
@@ -99,6 +99,7 @@ export const TagPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOpts) 
         const externalResources = pageResources(pathToRoot(slug), resources)
         const [tree, file] = tagDescriptions[tag]
         const componentData: QuartzComponentProps = {
+          ctx,
           fileData: file.data,
           externalResources,
           cfg,
