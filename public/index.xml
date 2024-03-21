@@ -6,6 +6,12 @@
       <description>Last 10 notes on 🪴 Liam&#039;s Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>4. URSULA</title>
+    <link>https://notes.nzdev.org/7ENF/4.-URSULA</link>
+    <guid>https://notes.nzdev.org/7ENF/4.-URSULA</guid>
+    <description>Characters Sam: At his apartment Fragas: At sam’s apartment Group Of Bullies: Walks past Sam’s apartment Main Points They recive there package containing there new nuro-tech headsets.</description>
+    <pubDate>Wed, 20 Mar 2024 23:59:44 GMT</pubDate>
+  </item><item>
     <title>cool class</title>
     <link>https://notes.nzdev.org/7DIT/cool-class</link>
     <guid>https://notes.nzdev.org/7DIT/cool-class</guid>
@@ -17,6 +23,30 @@
     <guid>https://notes.nzdev.org/7DIT/AS-91896-Coding-Project-2.7/Liams-Level-2-Python-Project</guid>
     <description>Liams Level 2 Python Project Project Description Create a Order system for a small bisness to display daliy earning profit excetra … Key Specifications Add orders remove orders descibe each item acording to predefined menu add custom item support display the end of day resaults ℹ️ Write bullet points outlining the key specifications for your project Daily Log ℹ️ Each time you work on your project, add a dated entry to this section.</description>
     <pubDate>Wed, 20 Mar 2024 21:52:18 GMT</pubDate>
+  </item><item>
+    <title>3. Chaos</title>
+    <link>https://notes.nzdev.org/7ENF/3.-Chaos</link>
+    <guid>https://notes.nzdev.org/7ENF/3.-Chaos</guid>
+    <description>Characters Sam: Walking into school Main Points The down fall from the telecom database delletion cause mass panic. The computer virus spread down the coast lots of things broke.</description>
+    <pubDate>Tue, 19 Mar 2024 22:40:44 GMT</pubDate>
+  </item><item>
+    <title>BrainJack</title>
+    <link>https://notes.nzdev.org/7ENF/BrainJack</link>
+    <guid>https://notes.nzdev.org/7ENF/BrainJack</guid>
+    <description>Chapters Chapter 1 Dirty Tricks Transclude of 1.-Dirty-Tricks Chapter 2 Telecomerica Transclude of 2.-Telecomerica Chapter 3 Chaos Transclude of 3.-Chaos Chapter 4 Ursula Transclude of 4.</description>
+    <pubDate>Tue, 19 Mar 2024 22:40:44 GMT</pubDate>
+  </item><item>
+    <title>2. Telecomerica</title>
+    <link>https://notes.nzdev.org/7ENF/2.-Telecomerica</link>
+    <guid>https://notes.nzdev.org/7ENF/2.-Telecomerica</guid>
+    <description>Characters Fragas is watch Sam From outside Sam is in the coffie shop next to Telecomerica Main Points Sam has posted up in the coffee shop next to Telelcomerica.</description>
+    <pubDate>Tue, 19 Mar 2024 22:40:43 GMT</pubDate>
+  </item><item>
+    <title>1. Dirty Tricks</title>
+    <link>https://notes.nzdev.org/7ENF/1.-Dirty-Tricks</link>
+    <guid>https://notes.nzdev.org/7ENF/1.-Dirty-Tricks</guid>
+    <description>Characters Sam is introdused as a senior at high school who hacks for fun. Fargas is Sam’s buddy who helps Sam with his hacking hobby. Main Points Sam is introduced as making his way to a spot where they are going to hack.</description>
+    <pubDate>Tue, 19 Mar 2024 22:40:43 GMT</pubDate>
   </item><item>
     <title>Practice Report 2</title>
     <link>https://notes.nzdev.org/7CHE/Practice-Report-2</link>
@@ -35,36 +65,6 @@
     <guid>https://notes.nzdev.org/pi-Api/Module</guid>
     <description>Add This Module Using Git Create [submodule &quot;piApi&quot;] path = piApi url = https://github.com/Notliam99/piApi.git branch = builds Run the following commands git submodules init git submodules update --remote # updates the submoule with the .</description>
     <pubDate>Tue, 19 Mar 2024 22:40:38 GMT</pubDate>
-  </item><item>
-    <title>6sce mock</title>
-    <link>https://notes.nzdev.org/6sce-mock</link>
-    <guid>https://notes.nzdev.org/6sce-mock</guid>
-    <description>Q1 a) correct a=ΔtΔv​ a=30s​60ms​ a=2ms−2 b) correct Score: E1 c) i) correct Score: A2 ii) correct Fw​​=mg=770kg×10kg−1=7700N​​ Score: A3 iii) wrong question 2 c) the car was lifted 150 cm over a period of 30 seconds.</description>
-    <pubDate>Tue, 19 Mar 2024 22:40:37 GMT</pubDate>
-  </item><item>
-    <title>Add To Your Project</title>
-    <link>https://notes.nzdev.org/pi-Api/Add-To-Your-Project</link>
-    <guid>https://notes.nzdev.org/pi-Api/Add-To-Your-Project</guid>
-    <description>Add This Module Run the following CLI commands git submodules init git submodules update --remote # updates the submoule with the Create a .gitmodules file in the root [submodule &quot;piApi&quot;] path = piApi url = https://github.</description>
-    <pubDate>Tue, 19 Mar 2024 22:40:36 GMT</pubDate>
-  </item><item>
-    <title>Ncea 3.7 Assesment Project Proposals</title>
-    <link>https://notes.nzdev.org/Ncea-3.7-Assesment-Project-Proposals</link>
-    <guid>https://notes.nzdev.org/Ncea-3.7-Assesment-Project-Proposals</guid>
-    <description>API I could make a Web Api using Python and Module i have had some time with FastApi. I have spent a fair amount of time with kuberneties Witch i can use to deploy the app to a public domain.</description>
-    <pubDate>Tue, 19 Mar 2024 22:40:36 GMT</pubDate>
-  </item><item>
-    <title>kuberneties</title>
-    <link>https://notes.nzdev.org/kuberneties</link>
-    <guid>https://notes.nzdev.org/kuberneties</guid>
-    <description>How I Use Kuberneties I use kuberneties mostly in my CD pipeline I also have deployed other servieces like bitwarden a password manager too. Continuous Deployment (CD) The main service that makes continious deployment work for me is ArgoCd.</description>
-    <pubDate>Tue, 19 Mar 2024 22:40:36 GMT</pubDate>
-  </item><item>
-    <title>2024 python refresh</title>
-    <link>https://notes.nzdev.org/2024-python-refresh</link>
-    <guid>https://notes.nzdev.org/2024-python-refresh</guid>
-    <description>Outline For The “short Script” Mine is Not Short at all but it cover the rest of the requirements of the other challenges. For those who Know its the first question in the python refresher for#7dit .</description>
-    <pubDate>Tue, 19 Mar 2024 22:40:33 GMT</pubDate>
   </item>
     </channel>
   </rss>
