@@ -6,6 +6,12 @@
       <description>Last 10 notes on 🪴 Liam&#039;s Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>DailyLog 1</title>
+    <link>https://notes.nzdev.org/7DIT/AS-91896-Coding-Project-2.7/DailyLogs/DailyLog-1</link>
+    <guid>https://notes.nzdev.org/7DIT/AS-91896-Coding-Project-2.7/DailyLogs/DailyLog-1</guid>
+    <description>What Have I Done I set up this documentation I created the GitHub repo Init the rust project finaly I have made a item struct for containing all items on the menu Item Struct My Awesome ...</description>
+    <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
+  </item><item>
     <title>4. URSULA</title>
     <link>https://notes.nzdev.org/7ENF/BrainJack-Chapters/4.-URSULA</link>
     <guid>https://notes.nzdev.org/7ENF/BrainJack-Chapters/4.-URSULA</guid>
@@ -59,12 +65,6 @@
     <guid>https://notes.nzdev.org/</guid>
     <description>WOW I Am Sooooooo Good At School Check Out My 10/10 Cheat Codes !!! I like google.</description>
     <pubDate>Tue, 19 Mar 2024 22:40:41 GMT</pubDate>
-  </item><item>
-    <title>Module</title>
-    <link>https://notes.nzdev.org/pi-Api/Module</link>
-    <guid>https://notes.nzdev.org/pi-Api/Module</guid>
-    <description>Add This Module Using Git Create [submodule &quot;piApi&quot;] path = piApi url = github.com/Notliam99/piApi.git branch = builds Run the following commands git submodules init ...</description>
-    <pubDate>Tue, 19 Mar 2024 22:40:38 GMT</pubDate>
   </item>
     </channel>
   </rss>
