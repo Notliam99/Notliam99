@@ -12,6 +12,12 @@
     <description>torke force by the distance form pivot τ=Fd Equilibrium When forces are equal aka net force of zero ΣF=0 (Fup​=Fdown​) all vertical forces must be equal (Fleft​=Fright​) all horizontal ...</description>
     <pubDate>Fri, 22 Mar 2024 00:34:00 GMT</pubDate>
   </item><item>
+    <title>DailyLog 2</title>
+    <link>https://notes.nzdev.org/7DIT/AS-91896-Coding-Project-2.7/DailyLogs/DailyLog-2</link>
+    <guid>https://notes.nzdev.org/7DIT/AS-91896-Coding-Project-2.7/DailyLogs/DailyLog-2</guid>
+    <description>What I Have Done Added unit test to the functions made thus far. Doc Unit tests Testing dit_as_91896::menu::Items::new(food: Vec&lt;String&gt;, drinks: Vec&lt;String&gt;, sides: Vec&lt;String&gt;) New instance function @prams: food: vector of food items drinks: vector of drinks sides: vector of sides @return: instance of type Items Panics The function panics if the second argument is zero.</description>
+    <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Task B</title>
     <link>https://notes.nzdev.org/L2-Mechanics/Task-B</link>
     <guid>https://notes.nzdev.org/L2-Mechanics/Task-B</guid>
@@ -58,12 +64,6 @@
     <link>https://notes.nzdev.org/7ENF/BrainJack-Chapters/2.-Telecomerica</link>
     <guid>https://notes.nzdev.org/7ENF/BrainJack-Chapters/2.-Telecomerica</guid>
     <description>Characters Fragas is watch Sam From outside Sam is in the coffie shop next to Telecomerica Main Points Sam has posted up in the coffee shop next to Telelcomerica ...</description>
-    <pubDate>Tue, 19 Mar 2024 22:40:43 GMT</pubDate>
-  </item><item>
-    <title>1. Dirty Tricks</title>
-    <link>https://notes.nzdev.org/7ENF/BrainJack-Chapters/1.-Dirty-Tricks</link>
-    <guid>https://notes.nzdev.org/7ENF/BrainJack-Chapters/1.-Dirty-Tricks</guid>
-    <description>Characters Sam is introdused as a senior at high school who hacks for fun. Fargas is Sam’s buddy who helps Sam with his hacking hobby. Main Points Sam is introduced as making his way to a spot where they are going to hack.</description>
     <pubDate>Tue, 19 Mar 2024 22:40:43 GMT</pubDate>
   </item>
     </channel>
