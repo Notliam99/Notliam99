@@ -6,11 +6,14 @@ metadata:
   labels:
     app: node
 spec:
-  replicas: 2
+  replicas: 3
   progressDeadlineSeconds: 600
-  revisionHistoryLimit: 2
+  revisionHistoryLimit: 1
   strategy:
-    type: Recreate
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 1
   selector:
     matchLabels:
       app: node
