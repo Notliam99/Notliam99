@@ -6,6 +6,42 @@
       <description>Last 10 notes on 🪴 Liam&#039;s Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>2.4 Digital Re-Take</title>
+    <link>https://notes.nzdev.org/7PHX/2.4-Digital-Re-Take</link>
+    <guid>https://notes.nzdev.org/7PHX/2.4-Digital-Re-Take</guid>
+    <description>Question One Question Tamsin wants to hit a tennis ball, with her tennis racket over the roof of her house. a) Question She Accelerates the ball from rest velocity of 16ms−1.</description>
+    <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>9. The Library</title>
+    <link>https://notes.nzdev.org/7ENF/BrainJack-Chapters/9.-The-Library</link>
+    <guid>https://notes.nzdev.org/7ENF/BrainJack-Chapters/9.-The-Library</guid>
+    <description>TO BE DONE… Charters Main Plot.</description>
+    <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>8. KIWI</title>
+    <link>https://notes.nzdev.org/7ENF/BrainJack-Chapters/8.-KIWI</link>
+    <guid>https://notes.nzdev.org/7ENF/BrainJack-Chapters/8.-KIWI</guid>
+    <description>Characters Sam Jase - nickname: kiwi plot he has found himself in a youth detention center after being taken by police. he gets a box of his items delivered from his mum.</description>
+    <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>6. The White House</title>
+    <link>https://notes.nzdev.org/7ENF/BrainJack-Chapters/6.-The-White-House</link>
+    <guid>https://notes.nzdev.org/7ENF/BrainJack-Chapters/6.-The-White-House</guid>
+    <description>Characters sam Main Plot explains and executes a way to hack into the white houses inner air gap network. using a email exploit on the white houses email servers.</description>
+    <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>7.  NEOH@CK</title>
+    <link>https://notes.nzdev.org/7ENF/BrainJack-Chapters/7.--NEOH@CK</link>
+    <guid>https://notes.nzdev.org/7ENF/BrainJack-Chapters/7.--NEOH@CK</guid>
+    <description>Characters Sam Ursula His Ai Assistant Main Plot He gets into the neoh@ck convention a virtual version of the white house. the meeting is a supposed formal dinner i this virtual white house.</description>
+    <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>5. Freaks And Geeks</title>
+    <link>https://notes.nzdev.org/7ENF/BrainJack-Chapters/5.-Freaks-And-Geeks</link>
+    <guid>https://notes.nzdev.org/7ENF/BrainJack-Chapters/5.-Freaks-And-Geeks</guid>
+    <description>characters fragas sam skullface makeup dude rock chick bride Main Points Fragas and Sam have found a invite to a hacker meet. They found this invite by hacking a email.</description>
+    <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Redox practice assesment</title>
     <link>https://notes.nzdev.org/7CHE/Redox-practice-assesment</link>
     <guid>https://notes.nzdev.org/7CHE/Redox-practice-assesment</guid>
@@ -29,42 +65,6 @@
     <guid>https://notes.nzdev.org/7DIT/AS-91896-Coding-Project-2.7/DailyLogs/DailyLog-4</guid>
     <description>Yesterday I fixed up the Items struct, tidying up the code. I then made a Order struct to hold the order and add to the order. The order struck also implements display so it can be printed normally with cool formatting.</description>
     <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>DailyLog 3</title>
-    <link>https://notes.nzdev.org/7DIT/AS-91896-Coding-Project-2.7/DailyLogs/DailyLog-3</link>
-    <guid>https://notes.nzdev.org/7DIT/AS-91896-Coding-Project-2.7/DailyLogs/DailyLog-3</guid>
-    <description>Today Today I updated the menu items struct to use hash_maps to make it so that it holds both the name of the item and the price. From pub struct Items { pub food: Vec&lt;String&gt;, pub drinks: Vec&lt;String&gt;, pub sides: Vec&lt;String&gt;, } To pub struct Items { pub food: HashMap&lt;String, f64&gt;, pub drinks: HashMap&lt;String, f64&gt;, pub sides: HashMap&lt;String, f64&gt;, } Now Used Like use map_macro::hash_map; use dit_as_91896::menu; fn main() { let items: menu::Items = menu::Items { food: hash_map! { String::from(&quot;0&quot;) =&gt; 0.0, }, drinks: hash_map! { String::from(&quot;1&quot;) =&gt; 1.0, }, sides: hash_map! { String::from(&quot;2&quot;) =&gt; 2.0, }, }; println!(&quot;{items}&quot;) /* Outputs: food: { 0: costs $0.00 }, drinks: { 1: costs $1.00 }, sides: { 2: costs $2.00 }, */ } ```:.</description>
-    <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Redox</title>
-    <link>https://notes.nzdev.org/7CHE/Redox</link>
-    <guid>https://notes.nzdev.org/7CHE/Redox</guid>
-    <description>...</description>
-    <pubDate>Mon, 25 Mar 2024 21:19:20 GMT</pubDate>
-  </item><item>
-    <title>VERBILISE IT</title>
-    <link>https://notes.nzdev.org/L2-Mechanics/VERBILISE-IT</link>
-    <guid>https://notes.nzdev.org/L2-Mechanics/VERBILISE-IT</guid>
-    <description>torke force by the distance form pivot τ=Fd Equilibrium When forces are equal aka net force of zero ΣF=0 (Fup​=Fdown​) all vertical forces must be equal (Fleft​=Fright​) all horizontal ...</description>
-    <pubDate>Fri, 22 Mar 2024 00:34:00 GMT</pubDate>
-  </item><item>
-    <title>DailyLog 2</title>
-    <link>https://notes.nzdev.org/7DIT/AS-91896-Coding-Project-2.7/DailyLogs/DailyLog-2</link>
-    <guid>https://notes.nzdev.org/7DIT/AS-91896-Coding-Project-2.7/DailyLogs/DailyLog-2</guid>
-    <description>What I Have Done Added unit test to the functions made thus far. Doc Unit tests Testing dit_as_91896::menu::Items::new(food: Vec&lt;String&gt;, drinks: Vec&lt;String&gt;, sides: Vec&lt;String&gt;) New instance function @prams: food: vector of food items drinks: vector of drinks sides: vector of sides @return: instance of type Items Panics The function panics if the second argument is zero.</description>
-    <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Task B</title>
-    <link>https://notes.nzdev.org/L2-Mechanics/Task-B</link>
-    <guid>https://notes.nzdev.org/L2-Mechanics/Task-B</guid>
-    <description> Question Identify and describe the forces acting on a child sitting at the top of a slide. Draw a diagram to show all the forces acting on the child, then draw the same forces as a vector diagram.</description>
-    <pubDate>Thu, 21 Mar 2024 19:31:06 GMT</pubDate>
-  </item><item>
-    <title>DailyLog 1</title>
-    <link>https://notes.nzdev.org/7DIT/AS-91896-Coding-Project-2.7/DailyLogs/DailyLog-1</link>
-    <guid>https://notes.nzdev.org/7DIT/AS-91896-Coding-Project-2.7/DailyLogs/DailyLog-1</guid>
-    <description>What Have I Done I set up this documentation I created the GitHub repo Init the rust project finaly I have made a item struct for containing all items on the menu Item Struct My Awesome ...</description>
-    <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
