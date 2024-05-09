@@ -6,6 +6,18 @@
       <description>Last 10 notes on 🪴 Liam&#039;s Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Task B</title>
+    <link>https://notes.nzdev.org/7PHX/Task-B</link>
+    <guid>https://notes.nzdev.org/7PHX/Task-B</guid>
+    <description> Question Identify and describe the forces acting on a child sitting at the top of a slide. Draw a diagram to show all the forces acting on the child, then draw the same forces as a vector diagram.</description>
+    <pubDate>Wed, 08 May 2024 02:47:09 GMT</pubDate>
+  </item><item>
+    <title>VERBILISE IT</title>
+    <link>https://notes.nzdev.org/7PHX/VERBILISE-IT</link>
+    <guid>https://notes.nzdev.org/7PHX/VERBILISE-IT</guid>
+    <description>torke force by the distance form pivot τ=Fd Equilibrium When forces are equal aka net force of zero ΣF=0 (Fup​=Fdown​) all vertical forces must be equal (Fleft​=Fright​) all horizontal ...</description>
+    <pubDate>Wed, 08 May 2024 02:47:07 GMT</pubDate>
+  </item><item>
     <title>2.4 Digital Re-Take</title>
     <link>https://notes.nzdev.org/7PHX/2.4-Digital-Re-Take</link>
     <guid>https://notes.nzdev.org/7PHX/2.4-Digital-Re-Take</guid>
@@ -53,18 +65,6 @@
     <guid>https://notes.nzdev.org/7DIT/AS-91896-Coding-Project-2.7/DailyLogs/DailyLog-6</guid>
     <description>Today completing Calculating profits I have edited the code a little to make it work how right making it return a vector than array just made it easier to use ...</description>
     <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>DailyLog 5</title>
-    <link>https://notes.nzdev.org/7DIT/AS-91896-Coding-Project-2.7/DailyLogs/DailyLog-5</link>
-    <guid>https://notes.nzdev.org/7DIT/AS-91896-Coding-Project-2.7/DailyLogs/DailyLog-5</guid>
-    <description>Today Issue addressed I Addressed the issue mentioned here to allow for a quantity grater than one to be discerned on the order. I have done this by increasing the cost by the cost of another item.</description>
-    <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>DailyLog 4</title>
-    <link>https://notes.nzdev.org/7DIT/AS-91896-Coding-Project-2.7/DailyLogs/DailyLog-4</link>
-    <guid>https://notes.nzdev.org/7DIT/AS-91896-Coding-Project-2.7/DailyLogs/DailyLog-4</guid>
-    <description>Yesterday I fixed up the Items struct, tidying up the code. I then made a Order struct to hold the order and add to the order. The order struck also implements display so it can be printed normally with cool formatting.</description>
-    <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
