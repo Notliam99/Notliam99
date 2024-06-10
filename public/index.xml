@@ -27,19 +27,19 @@
     <title>Colomb</title>
     <link>https://notes.nzdev.org/7PHX/electicity/Colomb</link>
     <guid>https://notes.nzdev.org/7PHX/electicity/Colomb</guid>
-    <description>What is a Colomb Colomb is a unit of electrons 1c=6×105 elctrons.</description>
+    <description>What is a Colomb Colomb is a unit of electrons 1c=6\times 10^{5} \space elctrons.</description>
     <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
   </item><item>
     <title>Magnet Fields</title>
     <link>https://notes.nzdev.org/7PHX/electicity/Magnet-Fields</link>
     <guid>https://notes.nzdev.org/7PHX/electicity/Magnet-Fields</guid>
-    <description>Field Force How we define the force of repletion / attraction FFEqFF​=Eqor Example:=80×103Vm−1=3.2×10−19=(80×103Vm−1)×(3.2×10−19)=2.56×10−14N​​ Field Strength EVdEE​=dV​=1.34×103 ...</description>
+    <description>Field Force How we define the force of repletion / attraction \begin{align} F&amp;=Eq \\ \\ F&amp;or\space Example: \\ \\ E&amp;=80\times 10^{3}Vm^{-1} \\ q&amp;=3.2\times 10^{-19} ...</description>
     <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
   </item><item>
     <title>Electricity &amp; Magnetism</title>
     <link>https://notes.nzdev.org/7PHX/electicity/</link>
     <guid>https://notes.nzdev.org/7PHX/electicity/</guid>
-    <description>Units nameuseunitColombAmount of chargecOhmsResistanceΩ or RCurrentCurrent FlowIVoltageDifference of chargeVWatsShow the powerw or Js−1 Types Of Electricity Static Electricity ...</description>
+    <description>Units nameuseunitColombAmount of chargecOhmsResistance\Omega or RCurrentCurrent FlowIVoltageDifference of chargeVWatsShow the powerw or Js^{-1} Types Of Electricity Static ...</description>
     <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
   </item><item>
     <title>kubernetes</title>
