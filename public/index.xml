@@ -18,19 +18,13 @@
     <description>...</description>
     <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Sprint 2 - 10th July</title>
-    <link>https://notes.nzdev.org/7DIT/7DIT-Major-Project-Portfolio/Sprint-2---10th-July</link>
-    <guid>https://notes.nzdev.org/7DIT/7DIT-Major-Project-Portfolio/Sprint-2---10th-July</guid>
-    <description>Sprint Planning Important At the start of each sprint, look through your backlog and decide which tasks you will aim to complete during this sprint. Add these tasks to the relevant sprint, and add labels indicating which relevant implications each task addresses We Have a sprint of fleshing out ahead.</description>
-    <pubDate>Sun, 09 Jun 2024 20:09:45 GMT</pubDate>
-  </item><item>
-    <title>Formal Project Proposal</title>
-    <link>https://notes.nzdev.org/7DIT/7DIT-Major-Project-Portfolio/Formal-Project-Proposal</link>
-    <guid>https://notes.nzdev.org/7DIT/7DIT-Major-Project-Portfolio/Formal-Project-Proposal</guid>
+    <title>7DIT Major Project Portfolio</title>
+    <link>https://notes.nzdev.org/7DIT/7DIT-Major-Project-Portfolio/</link>
+    <guid>https://notes.nzdev.org/7DIT/7DIT-Major-Project-Portfolio/</guid>
     <description>...</description>
-    <pubDate>Sun, 09 Jun 2024 20:09:44 GMT</pubDate>
+    <pubDate>Fri, 07 Jun 2024 23:13:33 GMT</pubDate>
   </item><item>
-    <title>Letter To Self (Work In Progress)</title>
+    <title>Letter To Self (Draft 1)</title>
     <link>https://notes.nzdev.org/7ENF/Letter-To-Self</link>
     <guid>https://notes.nzdev.org/7ENF/Letter-To-Self</guid>
     <description>12 Dear Year 9 Me Welcome to the big high school. As I’m you I got some advice because it will be a interesting experience to say the least. Friends I know your in a friend group from primary school, don’t get me wrong you know them, its makes it easy.</description>
@@ -54,17 +48,23 @@
     <description>Units nameuseunitColombAmount of chargecOhmsResistance\Omega or RCurrentCurrent FlowIVoltageDifference of chargeVWatsShow the powerw or Js^{-1} Types Of Electricity Static ...</description>
     <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
   </item><item>
-    <title>kubernetes</title>
-    <link>https://notes.nzdev.org/kubernetes</link>
-    <guid>https://notes.nzdev.org/kubernetes</guid>
-    <description>How I Use kubernetes I use kubernetes mostly in my CD pipeline I also have deployed other servieces like bitwarden a password manager too. Continuous Deployment (CD) The main service that makes continuous deployment work for me is ArgoCd.</description>
-    <pubDate>Mon, 20 May 2024 20:16:18 GMT</pubDate>
-  </item><item>
     <title>2.9 Personal Response</title>
     <link>https://notes.nzdev.org/7ENF/2.9-Personal-Response</link>
     <guid>https://notes.nzdev.org/7ENF/2.9-Personal-Response</guid>
     <description>...</description>
-    <pubDate>Sun, 19 May 2024 22:30:26 GMT</pubDate>
+    <pubDate>Mon, 20 May 2024 07:29:34 GMT</pubDate>
+  </item><item>
+    <title>moles qalitative</title>
+    <link>https://notes.nzdev.org/7CHE/moles-qalitative</link>
+    <guid>https://notes.nzdev.org/7CHE/moles-qalitative</guid>
+    <description>...</description>
+    <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Formal Project Proposal</title>
+    <link>https://notes.nzdev.org/7DIT/7DIT-Major-Project-Portfolio/Formal-Project-Proposal</link>
+    <guid>https://notes.nzdev.org/7DIT/7DIT-Major-Project-Portfolio/Formal-Project-Proposal</guid>
+    <description>...</description>
+    <pubDate>Sat, 11 May 2024 07:19:28 GMT</pubDate>
   </item>
     </channel>
   </rss>
