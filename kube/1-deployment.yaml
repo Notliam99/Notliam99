@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
         - name: node
-          image: asskit/notes:f2e51b7911c36ba6c9751da00366ceacaf97386e
+          image: asskit/notes:5c8ac2435c81a0f1512a2d8f041656e3c2873a33
           ports:
             - name: web
               containerPort: 8080
