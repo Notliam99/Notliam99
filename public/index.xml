@@ -6,6 +6,18 @@
       <description>Last 10 notes on 🪴 Liam&#039;s Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Waves</title>
+    <link>https://notes.nzdev.org/7PHX/Waves/Waves</link>
+    <guid>https://notes.nzdev.org/7PHX/Waves/Waves</guid>
+    <description>Waves Types name of waveimagelongitudinalTransverse.</description>
+    <pubDate>Mon, 26 Aug 2024 02:30:40 GMT</pubDate>
+  </item><item>
+    <title>Waves Topic</title>
+    <link>https://notes.nzdev.org/7PHX/Waves/Index</link>
+    <guid>https://notes.nzdev.org/7PHX/Waves/Index</guid>
+    <description>Waves.</description>
+    <pubDate>Mon, 26 Aug 2024 02:29:23 GMT</pubDate>
+  </item><item>
     <title>Sprint 3 - 22nd August</title>
     <link>https://notes.nzdev.org/7DIT/7DIT-Major-Project-Portfolio/Sprint-3---22nd-August</link>
     <guid>https://notes.nzdev.org/7DIT/7DIT-Major-Project-Portfolio/Sprint-3---22nd-August</guid>
@@ -53,18 +65,6 @@
     <guid>https://notes.nzdev.org/7DIT/7DIT-Major-Project-Portfolio/Formal-Project-Proposal</guid>
     <description>...</description>
     <pubDate>Mon, 05 Aug 2024 01:07:29 GMT</pubDate>
-  </item><item>
-    <title>Final Project</title>
-    <link>https://notes.nzdev.org/7DIT/7DIT-Major-Project-Portfolio/Final-Project</link>
-    <guid>https://notes.nzdev.org/7DIT/7DIT-Major-Project-Portfolio/Final-Project</guid>
-    <description>...</description>
-    <pubDate>Mon, 05 Aug 2024 01:07:29 GMT</pubDate>
-  </item><item>
-    <title>kubernetes</title>
-    <link>https://notes.nzdev.org/kubernetes</link>
-    <guid>https://notes.nzdev.org/kubernetes</guid>
-    <description>How I Use kubernetes I use kubernetes mostly in my CD pipeline I also have deployed other servieces like bitwarden a password manager too. Continuous Deployment (CD) The main service that makes continuous deployment work for me is ArgoCd.</description>
-    <pubDate>Mon, 05 Aug 2024 01:07:25 GMT</pubDate>
   </item>
     </channel>
   </rss>
